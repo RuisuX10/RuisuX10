@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RuisuX10
-- 👀 I’m interested in web developer, mostly php/Laravel projects.
-- 🌱 I’m currently learning front end
+- 👀 I’m a software developer, currently working with PHP/Laravel.
+- 🌱 I’m currently learning Dart, Flutter and Java
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me https://ruisudev.com
 
